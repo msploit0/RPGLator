@@ -16,17 +16,12 @@ To run this tool, you need to have Python 3.x installed on your system.
 Clone the Repository:
 
 ```
-Bash
-```
-```
 git clone https://github.com/YourUsername/RPGlator.git
 cd RPGlator
 ```
 Install Dependencies:
 The core translation functionality relies on the deep-translator library, which provides access to popular web-based translation engines.
-```
-Bash
-```
+
 ```
 pip install deep-translator tk
 ```
@@ -35,9 +30,7 @@ pip install deep-translator tk
 
 🚀 Usage
 Run the application:
-```
-Bash
-```
+
 ```
 python your_main_file_name.py
 ```
