@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Bu dosyaları dil sayımına dahil etme:
+*.tex linguist-vendored
+*.yaml linguist-vendored
