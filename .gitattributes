@@ -1,3 +1,8 @@
-# Bu dosyaları dil sayımına dahil etme:
-*.tex linguist-vendored
-*.yaml linguist-vendored
+# Derleme ve Geçici Dosyaları Dil Sayımından Hariç Tut
+*.toc linguist-vendored
+*.pyz linguist-vendored
+*.pkg linguist-vendored
+*.zip linguist-vendored
+*.html linguist-vendored
+*.txt linguist-vendored
+*.spec linguist-vendored
