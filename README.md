@@ -17,23 +17,28 @@ Clone the Repository:
 
 ```
 Bash
-
+```
+```
 git clone https://github.com/YourUsername/RPGlator.git
 cd RPGlator
+```
 Install Dependencies:
 The core translation functionality relies on the deep-translator library, which provides access to popular web-based translation engines.
 ```
 Bash
-
+```
+```
 pip install deep-translator tk
 ```
+
 (Note: tk is the standard Python package for Tkinter, which is often included with Python. If the command above fails, try installing Tkinter via your system's package manager or ensure your Python installation includes it.)
 
 🚀 Usage
 Run the application:
 ```
 Bash
-
+```
+```
 python your_main_file_name.py
 ```
 (Replace your_main_file_name.py with the actual name of your script, likely rpglator_gui.py or similar.)
